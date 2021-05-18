@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="images"/>
+	<classpathentry kind="lib" path="C:/Users/SC/Downloads/temp/jfreechart-1.0.19/jfreechart-1.0.19/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SC/Downloads/temp/jfreechart-1.0.19/jfreechart-1.0.19/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SC/Downloads/temp/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SC/Downloads/temp/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SC/Downloads/temp/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SC/Downloads/temp/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SC/Downloads/temp/jfreechart-1.0.19/jfreechart-1.0.19/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SC/Downloads/temp/jfreechart-1.0.19/jfreechart-1.0.19/lib/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SC/Downloads/temp/jfreechart-1.0.19/jfreechart-1.0.19/lib/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SC/Downloads/temp/jfreechart-1.0.19/jfreechart-1.0.19/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SC/Downloads/temp/jfreechart-1.0.19/jfreechart-1.0.19/lib/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SC/Downloads/sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SC/Downloads/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SC/Downloads/JTattoo-1.6.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SC/Downloads/swingx-all-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SC/Downloads/AbsoluteLayout.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
